@@ -1,0 +1,3 @@
+# SP22
+
+This project aims to analyze whether men are taking more leading roles in Hollywood and if there is a pattern between the different features of a movie and the gender of the lead actor or actress. To achieve this, a dataset including 1424 movies and their features is used. For each movie, this dataset includes different features like Lead actor gender, Gross, Year, and Number of female (ormale) actors. In section 2, we try to see if there is any interesting insight in the dataset and analyze the importance of each of these features in predicting if a movie is led by and male or female actor.
